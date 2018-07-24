@@ -10,8 +10,7 @@ Java 知识点，继续完善中。
 
 
 ### 常用集合
-- [ArrayList/Vector](https://github.com/leefine/Java-Interview/blob/master/MD/ArrayList.md)
-- [LinkedList](https://github.com/leefine/Java-Interview/blob/master/MD/LinkedList.md)
+- [ArrayList/Vector/LinkedList](https://github.com/leefine/Java-Interview/blob/master/MD/ArrayListVectorLinkedList.md)
 - [HashMap](https://github.com/leefine/Java-Interview/blob/master/MD/HashMap.md)
 - [HashSet](https://github.com/leefine/Java-Interview/blob/master/MD/collection/HashSet.md)
 - [LinkedHashMap](https://github.com/leefine/Java-Interview/blob/master/MD/collection/LinkedHashMap.md)
