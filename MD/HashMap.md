@@ -1,4 +1,3 @@
-**更多 HashMap 与 ConcurrentHashMap 相关请查看[这里](https://crossoverjie.top/2018/07/23/java-senior/ConcurrentHashMap/)。**
 
 # HashMap 底层分析
 
@@ -74,4 +73,3 @@ map.forEach((key,value)->{
 
 大大提高了查询效率。
 
-多线程场景下推荐使用 [ConcurrentHashMap](https://github.com/crossoverJie/Java-Interview/blob/master/MD/ConcurrentHashMap.md)。
